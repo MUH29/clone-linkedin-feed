@@ -1,6 +1,8 @@
-<b>Preview:</b> [linkedin-clone.netlify.app](https://linkedin-clone.netlify.app/)
 
-## Available Scripts
+
+## Linkedin Clone - ReactJS w/ Shimmer Effect
+
+<b>Preview:</b> [linkedin-clone.netlify.app](https://linkedin-clone.netlify.app/)
 
 In the project directory, you can run:
 
